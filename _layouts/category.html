@@ -3,6 +3,7 @@ layout: default
 ---
 
 <h1>{{ page.category }}</h1>
+{{ page.content }}
 <br>
 {% assign category_posts = site.posts | where: "category", page.category %}
 {% for post in category_posts %}
@@ -11,4 +12,5 @@ layout: default
 <div class="preview">
     {{ post.content }}
 </div>
+<br>
 {% endfor %}
