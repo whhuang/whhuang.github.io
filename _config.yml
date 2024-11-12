@@ -1,3 +1,5 @@
+baseurl: ""
+
 collections:
   category_pages:
     output: true
