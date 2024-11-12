@@ -6,4 +6,15 @@
         </li>
         {% endfor %}
     </ul>
+    <br>
+    <h3>Categories</h3>
+    <ul>
+        {% for category in site.categories %}
+        <li>
+            <a href="/{{ category[0] | slugify }}/" {% if page.url contains category[0] %} class="current" {% endif %}>
+                {{ category[0] }}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
 </nav>
