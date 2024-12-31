@@ -1,3 +1,5 @@
+// Styles are mobile-friendly by default
+
 html {
     height: 100%;
     box-sizing: border-box;
@@ -48,11 +50,14 @@ a:visited {
     height: 100%;
     padding: 0;
     display: flex;
+    flex-direction: column;
 }
 
 .navigation {
     float: left;
-    padding: 40px;
+    padding: 20px;
+    background-color: #dbd8d5;
+    box-shadow: 0 1px 7px 1px #9c9c9c;
 
     a {
         color: gray;
@@ -65,13 +70,43 @@ a:visited {
     }
 }
 
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 .content {
-    padding: 40px;
+    padding: 20px;
+    height: min-content;
 
     p {
         margin: 1.5rem 0;
     }
 }
+
+// Styles for larger screens
+@media only screen and (min-width: 481px) {
+    .page-body {
+        flex-direction: row;
+    }
+
+    .navigation {
+        padding: 40px;
+        background-color: inherit;
+        box-shadow: none;
+    }
+
+    .nav {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .content {
+        padding: 40px;
+    }
+}
+
 
 .date {
     font-size: 1rem;
@@ -83,6 +118,13 @@ a:visited {
     padding: 5px 20px;
     color: #5e5e5e;
     border-radius: 0px 10px 10px 10px
+}
+
+.read-more,
+.read-more:visited {
+    font-size: 80%;
+    color: #8f8f8f;
+    text-decoration: none;
 }
 
 .small {

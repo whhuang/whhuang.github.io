@@ -1,20 +1,24 @@
-<nav>
-    <ul>
-        {% for item in site.data.navigation %}
-        <li>
-            <a href="{{ item.link }}" {% if page.url==item.link %} class="current" {% endif %}>{{ item.name }}</a>
-        </li>
-        {% endfor %}
-    </ul>
-    <br>
-    <h3>Categories</h3>
-    <ul>
-        {% for category in site.categories %}
-        <li>
-            <a href="/{{ category[0] | slugify }}/" {% if page.url contains category[0] %} class="current" {% endif %}>
-                {{ category[0] }}
-            </a>
-        </li>
-        {% endfor %}
-    </ul>
+<nav class="nav">
+    <div>
+        <ul>
+            {% for item in site.data.navigation %}
+            <li>
+                <a href="{{ item.link }}" {% if page.url==item.link %} class="current" {% endif %}>{{ item.name }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div>
+        <h3>Categories</h3>
+        <ul>
+            {% for category in site.categories %}
+            <li>
+                <a href="/{{ category[0] | slugify }}/" {% if page.url contains category[0] %} class="current" {% endif
+                    %}>
+                    {{ category[0] }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 </nav>
