@@ -137,3 +137,20 @@ a:visited {
 .small {
     font-size: 0.8rem;
 }
+
+.featured {
+    margin: 0.5rem 0;
+    font-weight: 500;
+    color: gray;
+}
+
+.featured-title,
+.featured-title:visited {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+    color: #8a8072;
+
+    a {
+        text-decoration: none;
+    }
+}
