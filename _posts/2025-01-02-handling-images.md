@@ -1,6 +1,7 @@
 ---
 category: website
 title: Handling images
+date: 2025-01-02 10:00:00
 ---
 
 I just spent an absurd amount of time trying to figure out how to deal with images on this blog. I've decided to upload images directly into the repository under `assets/images` as a first pass (this may become unscalable pretty quickly, but we'll see how far I get).

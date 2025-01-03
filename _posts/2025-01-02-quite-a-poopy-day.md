@@ -1,6 +1,7 @@
 ---
 category: japan
 title: quite a 💩 day
+date: 2025-01-02 23:00:00
 ---
 
 ![ramen museum]({{ '/assets/images/2025-01-02/museum-1.webp' | relative_url }}){: height="500" }
