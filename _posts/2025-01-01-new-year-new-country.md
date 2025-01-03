@@ -7,9 +7,9 @@ Gonna keep this post pretty short because I'm technically 1 real day in (to be f
 
 Seemed like basically only Chinese-Japanese fast food-ish restaurants were open in Shinjuku, which we thought was extra amusing since the stereotypes of Chinese restaurants being open on holidays appeared to transcend beyond the US. We met up with our friend Steven who has been traveling the world since April, and he shared a bunch of stories with us. I took a nice nap in the afternoon, and then we went to a Himalayan Curry restaurant (the only non-fast food place I saw open today) for dinner. Was yummy, 7/10.
 
-- ![curry restaurant]({{ '/assets/images/new-year/new-year-1.png' | relative_url }}){: height="500" }
+- ![curry restaurant]({{ '/assets/images/2025-01-01/new-year-1.webp' | relative_url }}){: height="500" }
 
 Went to 7-11 afterwards and saw a machine that takes a cup of fruit and blends it into a smoothie right in front of you. We tried it out, and I tried to take a video with my Meta glasses and apparently failed, so that's an area of improvement for me. It was a sweet potato smoothie, and honestly, pretty good! Not sure if I'd get it again but worth a try for the novelty (and makes a great guessing game).
 
-- ![smoothie machine]({{ '/assets/images/new-year/new-year-2.png' | relative_url }}){: height="500" }
+- ![smoothie machine]({{ '/assets/images/2025-01-01/new-year-2.webp' | relative_url }}){: height="500" }
 - *...I really thought this was a video...*
