@@ -32,7 +32,7 @@ $ git lfs install
 $ git lfs track "*.png"
 $ git add .gitattributes
 ```
-It took me a few tries to get it exactly correct (my images weren't getting picked up by lfs initially for some reason, probably because I'm bad at following simple instructiions).
+It took me a few tries to get it exactly correct (my images weren't getting picked up by lfs initially for some reason, probably because I'm bad at following simple instructions).
 
 ### Issue 2: images weren't displaying on published site
 
