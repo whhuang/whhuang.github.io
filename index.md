@@ -15,9 +15,11 @@ Welcome to my website! Use the navigation bar (left on desktop, above on mobile)
 <p>{{ specific_post.excerpt }}</p>
 </div>
 <br>
-<h4 class="featured">Latest post<h4>
+<h4 class="featured">Latest post</h4>
 <div class="preview">
-{% assign latest_post = site.posts | sort: 'date' | reverse | first %}
+{% assign excluded_categories = "website,personal" | split: ',' %}
+{% assign filtered_posts = site.posts | reject: "categories", excluded_categories %}
+{% assign latest_post = filtered_posts | sort: 'date' | reverse | first %}
 <div class="featured-title">
 <h4>{{ latest_post.date | date: "%d %B %Y" }}</h4>
 <a href="{{ site.baseurl }}{{ latest_post.url }}">{{ latest_post.title }}</a> ⏐

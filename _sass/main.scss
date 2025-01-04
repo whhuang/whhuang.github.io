@@ -34,6 +34,14 @@ a:visited {
     color: #173f80
 }
 
+.responsive-image {
+    max-height: 500px;
+    max-width: 100%; /* Ensures the image fits the container */
+    height: auto; /* Maintains aspect ratio */
+    width: auto; /* Maintains aspect ratio */
+    display: block; /* Optional: removes extra space at the bottom */
+}
+
 .header {
     height: fit-content;
     font-family: 'Quicksand', sans-serif;
@@ -154,12 +162,3 @@ a:visited {
         text-decoration: none;
     }
 }
-
-.responsive-image {
-    max-height: 500px;
-    max-width: 100%; /* Ensures the image fits the container */
-    height: auto; /* Maintains aspect ratio */
-    width: auto; /* Maintains aspect ratio */
-    display: block; /* Optional: removes extra space at the bottom */
-    // margin: 0 auto; /* Optional: centers the image in the container */
-  }
