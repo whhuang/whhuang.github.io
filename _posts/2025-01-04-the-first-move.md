@@ -16,33 +16,33 @@ I submitted my inquiry and waited eagerly with only a few days to go before our 
 
 The person from Tokyo Furnished that I was corresponding with got back to me with a very limited number of options that didn't quite fulfill my criteria, but beggars can't be choosers at this point. One of them seemed slightly better than the other, so we went for it. And that's the place we moved into today!
 
-![street]({{ '/assets/images/2025-01-04/moving-1.webp' | relative_url}}){: class="responsive-image" }
+![street]({{ 'https://whitneyhuang.com/images/2025-01-04/moving-1.webp' }}){: class="responsive-image" }
 _Miles walking down the street with his bag, so grateful we didn't have to move our other 3 giant heavy bags_
 
 The place was pretty much exactly as advertised, on the cozier side but certainly suitable for 2 (and a guest or two).
 
-![apartment]({{ '/assets/images/2025-01-04/moving-2.webp' | relative_url}}){: class="responsive-image" }
+![apartment]({{ 'https://whitneyhuang.com/images/2025-01-04/moving-2.webp' }}){: class="responsive-image" }
 
-![bedroom]({{ '/assets/images/2025-01-04/moving-3.webp' | relative_url}}){: class="responsive-image" }
+![bedroom]({{ 'https://whitneyhuang.com/images/2025-01-04/moving-3.webp' }}){: class="responsive-image" }
 
-![street]({{ '/assets/images/2025-01-04/moving-4.webp' | relative_url}}){: class="responsive-image" }
+![street]({{ 'https://whitneyhuang.com/images/2025-01-04/moving-4.webp' }}){: class="responsive-image" }
 _Steven testing out the pull-out couch - his review: a little cold but better than 6 months of living in hostels_
 
 If you recall from the [goodbye San Francisco post]({% post_url 2024-12-31-goodbye-san-francisco %}), we scheduled a delivery for the bulk of our bags to this apartment. Today was the day they were scheduled to arrive. At some point, I realized I only put the street number (there will be a future post about how Japanese addresses work) on the delivery form and not the apartment name or number. I also don't have a Japanese phone number yet so I had no means of contacting them, and vice versa. Luckily, we are in the first apartment, so I figured if they arrive, I'll be able to hear them or intercept them. When I scheduled a delivery with Yamato, I was able to specify not only the date of delivery, but the time as well. I scheduled it for 4 to 6 pm and they informed me that the bags might be a little late due to city traffic. Well what do you know, they showed up at 3:47 pm and knocked on my door. I had another awkward conversation where I tried to explain to a very enthusiastic but slightly nervous Japanese man who was asking me if I happened to know anything about this delivery that it was in fact for me. I kept pointing to my name on the receipt he was holding and then pointing to me, and eventually he got it and the bags arrived (he refused to let us help him carry these 30kg/60lb bags in, wow Japanese service is too kind). In any case, I am really excited to learn Japanese so I can stop feeling so guilty in these interactions all the time.
 
 The apartment itself is pretty cute but nothing to write home about (I guess I'm literally writing home about it right now), but the location is much better than expected. It's a bit far from our language schools and my friend's apartment, but my first impression of the surrounding neighborhood has a lot of really great things. There seems to be a nice park close by, and I didn't even realize at the time we booked the place since I just said yes to the only available option, but it is right next to [Tokyo's longest shotengai, or covered shopping street](https://www.gotokyo.org/en/spot/704/index.html).
 
-![mall]({{ '/assets/images/2025-01-04/mall.webp' | relative_url}}){: class="responsive-image" }
+![mall]({{ 'https://whitneyhuang.com/images/2025-01-04/mall.webp' }}){: class="responsive-image" }
 
 The mall was awesome and I suspect we will be paying many, many visits to it. At a glance, there seems to be literally everything we could possibly want - every kind of food, grocery store, fresh fish/sushi market, drug store, tons of thrift shops including a second-hand electronics store that sells new and retro devices including multiple Super Nintendos (yes, from the 90's), and even a bike shop. A nice gyoza shop caught our eye:
 
-![gyoza storefront]({{ '/assets/images/2025-01-04/gyoza-1.webp' | relative_url}}){: class="responsive-image" }
+![gyoza storefront]({{ 'https://whitneyhuang.com/images/2025-01-04/gyoza-1.webp' }}){: class="responsive-image" }
 
 Oh wow, the food blew us away! Definitely by far my favorite meal this trip (so far).
 
-![gyoza storefront]({{ '/assets/images/2025-01-04/gyoza-2.webp' | relative_url}}){: class="responsive-image" }
+![gyoza storefront]({{ 'https://whitneyhuang.com/images/2025-01-04/gyoza-2.webp' }}){: class="responsive-image" }
 _potato roe dip with fried dumpling skin crackers (right) felt very much like an upscale restaurant appetizer_
 
-![gyoza storefront]({{ '/assets/images/2025-01-04/gyoza-3.webp' | relative_url}}){: class="responsive-image" }
+![gyoza storefront]({{ 'https://whitneyhuang.com/images/2025-01-04/gyoza-3.webp' }}){: class="responsive-image" }
 
 The gyozas were very plump and juicy as advertised, and crispy on the outside with a thicker skin than a usual gyoza. The style was closer to Chinese dumplings in my opinion, as gyozas I've had have generally had much thinner skin and are a bit sweeter. These gyozas were a tad bit too salty for me, granted I kept dipping them in soy sauce, so that was probably my bad. I will say though, the other appetizers impressed me more than the gyozas, especially the potato roe dip and the chashu (in the back corner of the last photo) - the chashu was melt-in-your-mouth, juicy and flavorful but not overwhelmingly fatty, grilled to perfection. The whole meal (and a drink) came out to around ¥5,000, which is about $10 a person. They also served raw horse meat, so, maybe I'll have to try that at some point. 9/10

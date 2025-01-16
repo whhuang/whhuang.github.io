@@ -10,9 +10,9 @@ _cue [pokémon battle music](https://www.youtube.com/watch?v=fbHBSDQ_UZ0)_
 
 ### Contestant #1 - Efe Kebab
 
-![Efe Kebab stand]({{ '/assets/images/2025-01-03/efe-kebab-1.webp' | relative_url}}){: class="responsive-image" }
+![Efe Kebab stand]({{ 'https://whitneyhuang.com/images/2025-01-03/efe-kebab-1.webp' }}){: class="responsive-image" }
 
-![Efe Kebab]({{ '/assets/images/2025-01-03/efe-kebab-2.webp' | relative_url}}){: class="responsive-image" }
+![Efe Kebab]({{ 'https://whitneyhuang.com/images/2025-01-03/efe-kebab-2.webp' }}){: class="responsive-image" }
 
 (I will embed Google Maps pins in the future)
 
@@ -22,9 +22,9 @@ We walked 15 minutes to digest and grab another kebab.
 
 ### Contestant #2 - Reis Kebab
 
-![Reis Kebab stand]({{ '/assets/images/2025-01-03/reis-kebab-1.webp' | relative_url}}){: class="responsive-image" }
+![Reis Kebab stand]({{ 'https://whitneyhuang.com/images/2025-01-03/reis-kebab-1.webp' }}){: class="responsive-image" }
 
-![Reis Kebab]({{ '/assets/images/2025-01-03/reis-kebab-2.webp' | relative_url}}){: class="responsive-image" }
+![Reis Kebab]({{ 'https://whitneyhuang.com/images/2025-01-03/reis-kebab-2.webp' }}){: class="responsive-image" }
 
 Sorry for the horrible photography. I thought the cook on the chicken was better on this kebab, a little more dry but had a bit more browning than Efe. I personally preferred it to Efe Kebab, but the other two had trouble differentiating the two, and Steven noted that he probably just doesn't like chicken kebabs as much. Were they virtually identical? Okay, fine. Let's be real, even the stands look similar. I'll give this one a 7.5/10.
 
@@ -40,25 +40,25 @@ We hopped in the elevator and saw that the floors above us were labeled "[Gashap
 
 The rooms were extremely dingy, small, and smelled kind of strange. It was unclear how often the machines were serviced. The items appeared to be very low quality and useless, and they were mostly branded, fake-food themed, or anime-themed tiny thumb-sized keychains. We were about to head out when one machine caught Steven's eye - a computer-themed Gasha. He really wanted the laptop one.
 
-![sus gacha room]({{ '/assets/images/2025-01-03/gasha-1.webp' | relative_url}}){: class="responsive-image" }
+![sus gacha room]({{ 'https://whitneyhuang.com/images/2025-01-03/gasha-1.webp' }}){: class="responsive-image" }
 
 <video controls class="responsive-image">
-    <source src="{{ "/assets/videos/2025-01-03/gasha.webm" | relative_url }}" type="video/webm">
+    <source src="{{ "https://whitneyhuang.com/videos/2025-01-03/gasha.webm" }}" type="video/webm">
 </video>
 _it only took 2 tries!_
 
-![laptop gasha]({{ '/assets/images/2025-01-03/gasha-2.webp' | relative_url}}){: class="responsive-image" }
+![laptop gasha]({{ 'https://whitneyhuang.com/images/2025-01-03/gasha-2.webp' }}){: class="responsive-image" }
 _that's 2 kebabs of ~~useless junk~~ fun collectibles you're looking at_
 
 I was really craving dessert after the salty, saucy kebabs, and I found a place that looked interesting - [Tokyo milk cheese factory ice cream shop](https://maps.app.goo.gl/nNSWboe7wFveaavC9). Miles briefly tried to talk me out of it because it is a recipe for disaster for lactose intolerance, which in hindsight may have been why my stomach hurt later (more on this in a second). We tried following the Google Maps directions and got so confused and lost that we ended up doing a quick Uniqlo detour. Eventually we figured out that the stand is nestled inside the Shinjuku train station, which is literally an entire city underground. Visitors beware that blindly following Google Maps directions may not work great for going underground, so maybe actually look at the address of places or reviews ahead of time.
 
-![cheese ice cream]({{ '/assets/images/2025-01-03/cheese-ice-cream.webp' | relative_url}}){: class="responsive-image" }
+![cheese ice cream]({{ 'https://whitneyhuang.com/images/2025-01-03/cheese-ice-cream.webp' }}){: class="responsive-image" }
 
 Was very novel and honestly pretty good, the ice cream and cookie were cheesier than expected, and the cheese cake was nice and light (but wasn't a souffle cheesecake). I was personally looking forward to a light soft serve, but I enjoyed it nonetheless. 8.5/10.
 
 For dinner we hit up a grocery store, and I saw some mindblowingly cheap sushi. That should typically raise alarm bells, but if there's one place I'd feel comfortable eating cheap sushi, it would be Japan.
 
-![grossery store sushi]({{ '/assets/images/2025-01-03/grossery-store-sushi.webp' | relative_url}}){: class="responsive-image" }
+![grossery store sushi]({{ 'https://whitneyhuang.com/images/2025-01-03/grossery-store-sushi.webp' }}){: class="responsive-image" }
 _A whole tray for ¥600 ($3.82)! (this is only half of it)_
 
 Alright, fine, it tasted like a $4 tray of sushi. I really hate hard refrigerated sushi rice, and the fish was also kind of stiff, but didn't seem like it was rotting at least. Did I get full? For sure. Was it worth it? Well, my stomach hurt later that night, so I was reconsidering my life decisions at the moment, but as I was writing this post it occurred to me that it might've actually been the milk cheese dessert, so maybe $4 sushi is back on the table. Obviously I should still think a bit more critically about my life decisions.

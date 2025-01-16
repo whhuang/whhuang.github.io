@@ -6,9 +6,9 @@ date: 2025-01-06 23:00:00
 
 Today was a very slow errand day, so instead of posting dry content about my boring day (well, it was actually super rainy today*), I'll occasionally write about things that I've found interesting about Tokyo/Japan that is different than the US. If you've visited Tokyo before, you've very likely seen these yellow blocks on the sidewalk:
 
-![yellow block]({{ '/assets/images/2025-01-06/yellow-block-2.webp' | relative_url}}){: class="responsive-image" }
+![yellow block]({{ 'https://whitneyhuang.com/images/2025-01-06/yellow-block-2.webp' }}){: class="responsive-image" }
 
-![yellow block]({{ '/assets/images/2025-01-06/yellow-block-1.webp' | relative_url}}){: class="responsive-image" }
+![yellow block]({{ 'https://whitneyhuang.com/images/2025-01-06/yellow-block-1.webp' }}){: class="responsive-image" }
 
 These are markers for the visually impaired, known as Tenji blocks. There are a lot of great resources on the internet talking about the history, but the shortlist of interesting fun facts are:
 

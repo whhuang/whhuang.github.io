@@ -4,7 +4,7 @@ title: first day of school
 date: 2025-01-09 23:00:00
 ---
 
-![school]({{ '/assets/images/2025-01-09/school.webp' | relative_url}}){: class="responsive-image" }
+![school]({{ 'https://whitneyhuang.com/images/2025-01-09/school.webp' }}){: class="responsive-image" }
 
 Today was the first day of language school. I had taken a semester of Japanese at CCSF (City College San Francisco, San Francisco's free community college) two years ago, and this was pretty reminiscent of that, except the students in this class are from all over the world. There's a pretty good mix in the class: people from China, Korea, Italy, France, a few other places, and only two other people from the US (as far as I can remember). I think there's about 20 students in the class.
 
@@ -26,10 +26,10 @@ As far as non-study stuff goes, I was hoping to make lots of friends through sch
 
 Steven and I (Miles was sick, unfortunately) went to a badminton [MeetUp](https://www.meetup.com/) and it was so much fun! It was in an elementary school which was kind of weird and cool, but I'd definitely like to play more badminton in Japan. The location was an hour away from our place, so it would be a lot better if it was closer of course...
 
-![badminton]({{ '/assets/images/2025-01-09/badminton-1.webp' | relative_url}}){: class="responsive-image" }
+![badminton]({{ 'https://whitneyhuang.com/images/2025-01-09/badminton-1.webp' }}){: class="responsive-image" }
 _it felt kind of illegal just waltzing into an elementary school at night_
 
-![badminton]({{ '/assets/images/2025-01-09/badminton-2.webp' | relative_url}}){: class="responsive-image" }
+![badminton]({{ 'https://whitneyhuang.com/images/2025-01-09/badminton-2.webp' }}){: class="responsive-image" }
 _a very small crew but we played so much! I even got some free coaching_
 
 One thing to note is that the school gym is an indoor space, which means you can't wear outdoor shoes. We had to buy brand new shoes because all the shoes we have with us are dirty. It seemed a little crazy to buy shoes just to play badminton, but I plan on doing a lot more of that throughout the year, so hopefully it's worth it. Just one more pair of shoes to add to my athletic gear collection, which is kind of hilarious given that I don't consider myself to be an athletic person, but on the other hand, I guess I like activities and doing stuff, so it's not that crazy I guess. I have yet to go to a workout gym here, but I wonder if the rules are the same (my guess is no).
@@ -38,8 +38,8 @@ Also a small side story: when we went to buy shoes, the shoe salesman actually s
 
 Ramen place called [Gankuru Ramen](https://maps.app.goo.gl/gpTZzCBa7HnofGF29) in the Musashi-Koyama mall, pretty good. Best ramen I've had so far this trip but not the best ramen I've had in Japan, 7.5/10. Thinking about it more critically...I think I might not love Japanese-style ramen? (I LOVE instant ramen though, which seems sacrilegious to put into writing.) I can't think of one that's 9+/10. But very willing to be proven wrong. (Please someone prove me wrong.) 
 
-![ramen]({{ '/assets/images/2025-01-09/ramen.webp' | relative_url}}){: class="responsive-image" }
+![ramen]({{ 'https://whitneyhuang.com/images/2025-01-09/ramen.webp' }}){: class="responsive-image" }
 
 Another bonus nugget: whipped cream sando. Yep, it's two slices of crustless white bread with just whipped cream in the middle from a convenience store. And it was delicious.
 
-![cream sando]({{ '/assets/images/2025-01-09/cream-sando.webp' | relative_url}}){: class="responsive-image" }
+![cream sando]({{ 'https://whitneyhuang.com/images/2025-01-09/cream-sando.webp' }}){: class="responsive-image" }

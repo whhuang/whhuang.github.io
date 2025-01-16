@@ -22,9 +22,9 @@ From all of our past visits to Japan until now, we've explored around the follow
 
 Essentially, our search and visits have been along two subway lines that (sort of) intersect both of our language schools: JR Yamanote Line and Odakyu Line:
 
-![yamanote]({{ '/assets/images/2025-01-07/subway-line-1.webp' | relative_url}}){: class="responsive-image" }
+![yamanote]({{ 'https://whitneyhuang.com/images/2025-01-07/subway-line-1.webp' }}){: class="responsive-image" }
 
-![odakyu]({{ '/assets/images/2025-01-07/subway-line-2.webp' | relative_url}}){: class="responsive-image" }
+![odakyu]({{ 'https://whitneyhuang.com/images/2025-01-07/subway-line-2.webp' }}){: class="responsive-image" }
 
 This is probably very obvious, but because subways are so fast, once you can get onto the line you want, it's pretty trivial if you are 2 vs. say 4 or 5 stops away from your destination. This enables us to expand our search pretty significantly which is nice but also very daunting. To add to the complexity of the process, there are a few additional considerations:
 
@@ -40,9 +40,9 @@ Anyways, we've got our work cut out for us. Here is a bit more light-hearted con
 
 Not the best photo, but as we were visiting various neighborhoods, we walked by some people painting (or repainting) signage on a building, and it was very cool and pretty!
 
-![park]({{ '/assets/images/2025-01-07/park.webp' | relative_url}}){: class="responsive-image" }
+![park]({{ 'https://whitneyhuang.com/images/2025-01-07/park.webp' }}){: class="responsive-image" }
 
 This was from one of the [listings](https://rent.tokyu-housing-lease.co.jp/rent/5000532/46369) our realtor sent us. We joke about "Americans will use anything but the metric system", but have you heard of measuring area in number of tatami mats? (There are no tatami mats in this apartment. This is purely a measurement device.)
 
-![apt webspite]({{ '/assets/images/2025-01-07/apt-website.webp' | relative_url}}){: class="responsive-image" }
+![apt webspite]({{ 'https://whitneyhuang.com/images/2025-01-07/apt-website.webp' }}){: class="responsive-image" }
 

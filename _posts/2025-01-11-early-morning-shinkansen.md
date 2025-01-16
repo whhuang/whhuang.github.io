@@ -4,10 +4,10 @@ title: Early morning shinkansen
 date: 2025-01-11 23:00:00
 ---
 
-![shinkansen]({{ '/assets/images/2025-01-11/shinkansen.gif' | relative_url}}){: class="responsive-image" }
+![shinkansen]({{ 'https://whitneyhuang.com/images/2025-01-11/shinkansen.gif' }}){: class="responsive-image" }
 
 <video controls class="responsive-image">
-    <source src="{{ "/assets/videos/2025-01-11/shinkansen.webm" | relative_url }}" type="video/webm">
+    <source src="{{ "https://whitneyhuang.com/videos/2025-01-11/shinkansen.webm" }}" type="video/webm">
 </video>
 
 Woke up at 4 am today (after going to bed at 1…) to catch the 6 am Shinkansen (bullet train) to Nagano. Why? To go skiing! Well, I’m trying to cram as much skiing as I can this weekend so I’ll probably keep these posts relatively short and do a big one at the end.
@@ -30,20 +30,20 @@ Today's itinerary:
 - 19:00 - get dinner with friends
 - 21:00 - go to sleep
 
-![bus]({{ '/assets/images/2025-01-11/bus-1.webp' | relative_url}}){: class="responsive-image" }
+![bus]({{ 'https://whitneyhuang.com/images/2025-01-11/bus-1.webp' }}){: class="responsive-image" }
 _waiting in line for bus, basically everyone is skiing_
 
-![bus]({{ '/assets/images/2025-01-11/bus-2.webp' | relative_url}}){: class="responsive-image" }
+![bus]({{ 'https://whitneyhuang.com/images/2025-01-11/bus-2.webp' }}){: class="responsive-image" }
 _got front row seats on the bus_
 
-![hakuba]({{ '/assets/images/2025-01-11/hakuba-1.webp' | relative_url}}){: class="responsive-image" }
+![hakuba]({{ 'https://whitneyhuang.com/images/2025-01-11/hakuba-1.webp' }}){: class="responsive-image" }
 _snowy town (in Hakuba)_
 
-![hakuba]({{ '/assets/images/2025-01-11/hakuba-2.webp' | relative_url}}){: class="responsive-image" }
+![hakuba]({{ 'https://whitneyhuang.com/images/2025-01-11/hakuba-2.webp' }}){: class="responsive-image" }
 _ski lift_
 
-![hakuba]({{ '/assets/images/2025-01-11/hakuba-3.webp' | relative_url}}){: class="responsive-image" }
+![hakuba]({{ 'https://whitneyhuang.com/images/2025-01-11/hakuba-3.webp' }}){: class="responsive-image" }
 _mountain view_
 
-![potato]({{ '/assets/images/2025-01-11/potato.webp' | relative_url}}){: class="responsive-image" }
+![potato]({{ 'https://whitneyhuang.com/images/2025-01-11/potato.webp' }}){: class="responsive-image" }
 _burnt potato_

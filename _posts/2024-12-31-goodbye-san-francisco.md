@@ -3,11 +3,11 @@ category: japan
 title: Goodbye San Francisco...
 ---
 
-![bye sf :'(]({{ '/assets/images/2024-12-31/goodbye-sf-1.webp' | relative_url}}){: class="responsive-image" }
+![bye sf :'(]({{ 'https://whitneyhuang.com/images/2024-12-31/goodbye-sf-1.webp' }}){: class="responsive-image" }
 
 ...and hello, Tokyo!
 
-![good evening tokyo!]({{ '/assets/images/2024-12-31/goodbye-sf-2.webp' | relative_url}}){: class="responsive-image" }
+![good evening tokyo!]({{ 'https://whitneyhuang.com/images/2024-12-31/goodbye-sf-2.webp' }}){: class="responsive-image" }
 
 I'm coming off the plane now and I'm super exhausted, but I wanted to talk about all the logistics I went through to get here.
 
@@ -18,25 +18,25 @@ Given that we've decided to take a year off of work, we've been especially cost-
 3. 3 large baggage (as close to 30kg as we could get to be maximally cost efficient, we ended up taking a bunch of random junk which I will later review if this was a good idea or not)
 4. 1 snowboard bag (this was actually stuffed to the brim with all my athletic gear, such as for diving and climbing, too)
 
-- <br>![it was a lot to carry]({{ '/assets/images/2024-12-31/goodbye-sf-3.webp' | relative_url}}){: class="responsive-image" }
+- <br>![it was a lot to carry]({{ 'https://whitneyhuang.com/images/2024-12-31/goodbye-sf-3.webp' }}){: class="responsive-image" }
 - *airport baggage cart 10/10 invention*
 
 We paid for 1 extra carry-on weight (we kept 1 person's carry-on at the free weight limit), 3 check-in bags, and 1 snowboard (classified as special sports equipment). When we arrived at the airport, we weighed our carry-ons and found that we exceeded the weight limit by 0.3kg, so we ended up "wearing" our travel pillow, which brought us to an exact 22kg. I was feeling pretty proud of our packing efficiency. (FYI, for anyone taking Zipair flights, there is no online check-in, probably because they screen the baggage weight so carefully, so the lines are very long. You actually have to show up over 2 hours before your flight, ideally 3. It took us about an hour to go through the line and check-in.) The check-in agent asked me if "there was just a single snowboard" in my snowboard bag. I sheepishly told him no, I also had a pair of skis in there. I thought I paid for 1 snowboard bag (with the permission to put whatever I could fit in there), but it turns out I only paid for 1 _snowboard_, and all other special sports equipment require their own separate charge, so I was supposed to actually purchase baggage for 1 snowboard and 1 set of skis. I was getting a little nervous because I did have other stuff in there too, but they didn't inquire further so I resigned to paying an additional fee for the skis (with another bonus fee for a last-minute add-on).
 
 It was a slightly ridiculous amount of baggage to carry, but since we decided not to ship anything from San Francisco, I think it was pretty reasonable amount of stuff for a year abroad. There is something satisfying about traveling light, but it is a tradeoff between flexibility and having to buy lots of things over again. Given the budget constraints, as long as our check-in bags contained more than $54 of value (probably more like $100 given extra transport costs and inconvenience), it would be worth it. We tossed the rest of our belongings into a storage unit. We were coming down to the wire with our packing and moving - I really hate doing both, so it was a heavily sleep-deprived, very stressful week leading up to our flight.
 
-- ![storage unit]({{ '/assets/images/2024-12-31/goodbye-sf-5.webp' | relative_url}}){: class="responsive-image" }
+- ![storage unit]({{ 'https://whitneyhuang.com/images/2024-12-31/goodbye-sf-5.webp' }}){: class="responsive-image" }
 - *storage unit probably larger than our future Tokyo apartment*
 
 We boarded our flight on time, and then we sat on the tarmac for another hour after the scheduled departure. The crew members informed us that the delay was caused by a baggage issue, which made me panic because there was a nonzero chance the issue was with our bags, since we packed them in the most ridiculous way imaginable (both of my bags were bursting at the seams), or perhaps the inspection agents found out my dirty secret - I had more than just skis and a snowboard in my snowboard bag (gasp)! Luckily, our bags seemed relatively intact on arrival, and the flight was pretty uneventful otherwise. I do have a slight fear of flying, so it's always a relief when the plane ends up back on solid ground again.
 
 I was nervous going through immigration because we were entering as students, not tourists, and during my packing frenzy I forgot to go over the immigration checklist. I already knew I was missing a document that I was supposed to print out - permission to work part-time while being a student - but surely there were other things I missed that I didn't even know about. Japan seems like a place that really cares about its bureaucracy and filing paperwork correctly. I was sweating to say the least. I got called up to the counter fully prepared to explain, "I'm on a student visa not a tourist one, can you please help me go through the proper immigration processes", but luckily I didn't have to do any explaining. The agent immediately knew what I was here for and asked for my Certificate of Eligibility, which was a document provided by my language school via email. My fears came true. _Crap, I forgot to print it out! Oh no, I'm sure I'm missing some other critical documents!_ "Just the email on your phone is fine," said the agent. _Oh right, they did mention that._ The agent seemed pretty nice and forgiving, so I decided to try to push my luck. "Hey, I'm actually missing another document..." and pointed at Miles's copy of the part-time work form. The agent immediately handed me a blank copy of the form and told me to fill it out right there. Not only was I surprised that my request resulted in such a successful outcome, but I was honestly impressed with how quickly they found it, surely there must be dozens of random forms behind that counter? Within minutes, they printed out our residence cards and stamped it with part-time work approval. Maybe I'm just easily impressed or have had too many terrible experiences with government bureaucracy in the past, but my first hour of being in Japan had me riding a high. I felt like I unlocked a new achievement holding my residence card - I mean, it almost felt like I scammed the Japanese government into granting me residency, it was too easy.
 
-- ![residence card]({{ '/assets/images/2024-12-31/goodbye-sf-6.webp' | relative_url}}){: height="400" }
+- ![residence card]({{ 'https://whitneyhuang.com/images/2024-12-31/goodbye-sf-6.webp' }}){: height="400" }
 - *for those who can read Japanese (or Chinese), yes I realize it says I can't work on the front, but I promise they stamped it with part-time work authorization on the back*
 
 As we collected our bags, it was pretty clear that there was no way we could transport the baggage via public transit. I looked up Uber prices to get to where we were staying and they were over ¥30,000, which was about $200. Not the most ridiculous price, but it's steeper than public transit for sure, and I'm not a huge fan of long city car rides either. I knew we probably didn't have another choice, and just when I was ready to face defeat, I saw a sign that said "Baggage Transportation" in the Narita Airport lobby. It seemed like a ridiculous service, but since I was so desperate to not have to lug around these extremely heavy and weirdly shaped bags, we decided to check it out anyways. Turns out, [Yamato Transport](https://www.kuronekoyamato.co.jp/en/) is very reasonably priced and was so convenient to use - we rolled up to the counter, pointed at our bags, specified exactly where and when we wanted our bags (it ended up being extra convenient because we're staying in a place temporarily for a few days before we move to another place for a month, which meant we'd need to figure out how to lug the giant suitcases through Tokyo again, but instead we could just skip that and ship the bags directly to our next place). The total cost for shipping 3 giant, heavy bags came out to $60, which I was so overjoyed about.
 
-- ![yamato receipts]({{ '/assets/images/2024-12-31/goodbye-sf-4.webp' | relative_url }}){: class="responsive-image" }
+- ![yamato receipts]({{ 'https://whitneyhuang.com/images/2024-12-31/goodbye-sf-4.webp' }}){: class="responsive-image" }
 
 tl;dr: having a great time in Tokyo already without even having left the airport yet.

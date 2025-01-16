@@ -12,12 +12,12 @@ We had a long drive back to Tokyo and I got home around midnight. We stopped by 
 
 Quick photo dump:
 
-![hakuba]({{ '/assets/images/2025-01-13/hakuba-3.webp' | relative_url}}){: class="responsive-image" }
+![hakuba]({{ 'https://whitneyhuang.com/images/2025-01-13/hakuba-3.webp' }}){: class="responsive-image" }
 
-![hakuba]({{ '/assets/images/2025-01-13/hakuba-4.webp' | relative_url}}){: class="responsive-image" }
+![hakuba]({{ 'https://whitneyhuang.com/images/2025-01-13/hakuba-4.webp' }}){: class="responsive-image" }
 
-![hakuba]({{ '/assets/images/2025-01-13/hakuba-5.webp' | relative_url}}){: class="responsive-image" }
+![hakuba]({{ 'https://whitneyhuang.com/images/2025-01-13/hakuba-5.webp' }}){: class="responsive-image" }
 
-![hakuba]({{ '/assets/images/2025-01-13/hakuba-1.webp' | relative_url}}){: class="responsive-image" }
+![hakuba]({{ 'https://whitneyhuang.com/images/2025-01-13/hakuba-1.webp' }}){: class="responsive-image" }
 
-![hakuba]({{ '/assets/images/2025-01-13/hakuba-2.webp' | relative_url}}){: class="responsive-image" }
+![hakuba]({{ 'https://whitneyhuang.com/images/2025-01-13/hakuba-2.webp' }}){: class="responsive-image" }
