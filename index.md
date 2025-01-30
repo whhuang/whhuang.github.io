@@ -16,6 +16,7 @@ I'd like to start tracking readership and interest, if you're reading this pleas
 <a href="{{ site.baseurl }}{{ specific_post.url }}">{{ specific_post.title }}</a>
 </div>
 <p>{{ specific_post.excerpt }}</p>
+<a href="{{ specific_post.url }}" class="read-more">read more...</a>
 </div>
 <br>
 <h4 class="featured">Latest post<h4>
@@ -29,4 +30,5 @@ I'd like to start tracking readership and interest, if you're reading this pleas
 {% endfor %}
 </div>
 <p>{{ latest_post.excerpt }}</p>
+<a href="{{ latest_post.url }}" class="read-more">read more...</a>
 </div>
