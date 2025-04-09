@@ -1,0 +1,38 @@
+---
+categories: japan
+title: learning japanese in a more useful way
+date: 2025-03-18 23:00:00
+---
+
+I've been pondering this a lot since moving to Japan. As I wrap up the first semester of school, it feels like an appropriate time to do a thorough reflection on the Japanese learning experience so far. There are two main components about the learning experience so far that I want to address separately: 1. the teaching methods (and how the school is run), and 2. the curriculum itself. The curriculum is taken directly from the textbook. There was basically no deviation whatsoever, each class was just the next lesson in the textbook, so it'll be pretty straightforward to provide thoughts on this, and I think it's the more interesting aspect of the learning experience to consider anyways. I'll start with the teaching methodology and thoughts on the school itself to start.
+
+So, I decided to attend ISI Language Institute for a few reasons: 1) it was located in Shibuya, which I knew was where all the cool kids were (at least, that's all the information I had at the time), 2) they for sure sponsored student visas, 3) it seemed both legit (multiple campuses, detailed brochures) and intense - the Shibuya school specifically was considered the "career" track, so in theory it would prep you for getting a job in Japan. I wasn't necessarily (and still am not) looking to work at a Japanese company, but learning business-level Japanese seems like it would be a superset of practical Japanese and would open up the most opportunities for the future, so it seemed like a good idea. Also, I'm kind of impatient and want to learn Japanese as fast as possible, so a more intensive course seemed like the way to go.
+
+To be honest, I didn't do a deep dive into the school reviews before signing up. School is only scheduled for 3 hours a day, ...
+tl;dr school bad
+
+Curriculum:
+- all japanese, kind of cool but extremely not helpful if you're even a little bit confused
+- teaching by example is good, but it's honestly kind of confusing because the same grammar concept (e.g. a particle) will get introduced several different times and it's hard to understand what is new, what is the difference than the previous usage, what does this mean about further extrapolation, how is this different than other particles, etc.
+- could front-load more useful topics
+
+how I'd design a curriculum
+- start with self-introduction as every single textbook (including this one) does, but like, don't focus on it too much. I actually don't care if someone is a kaishain (worker) and what imaginary company they work at. Nationality and where do you currently live to start.
+- first, numbers. this is a given. want to hit the normal numbers and then the tsu's.
+- next, restaurant conversation. every single person visiting japan is going to visit a restaurant, and this is the primary place where as a tourist, you might get stuck in a situation where staff genuinely don't speak a lick of english and yet you still need to accomplish your task of ordering what you want and eating the food.
+  - our textbook does have a chapter on this, but I want more. It's so embarrassing that after 3 months of intense Japanese study, I still don't know how to order the correct cook on my ramen noodles or a small portion of rice.
+  - also include things like: for here or to go? counter or table (and all the variants)?
+  - cover things like how many people in your party when you walk in, saying itadakimasu (or not?) and gochisousama, etc.
+  - cover some common dishes that are less well-known abroad. e.g. what the heck is a rose tonkatsu
+- next, konbini (/store) conversation. our textbook covers "how much is this", but it is constantly missing the follow-up questions like "would you like a bag?", "what is your payment method?", "would you like this to be warmed?" etc.
+- next, making a reservation. This is where you cover dates (months, days of the month, days of the week). kara/made for opening hours. how to modify/cancel. commonly asked questions
+- common questions when running errands, such as - ID, health insurance card, phone number, address
+- asking for directions - this is less relevant with Google Maps these days, but sometimes you're stuck in an underground city where GPS will do you no good, basic directions are helpful
+
+If this is being taught in Japan, there should be field trips and practical homework assignments - like, go to a restaurant and order food. Make a real reservation. etc.
+
+Now, people should have the basics down (survival in japan), _now_ you can talk about yourself/others (pretend like you're meeting a stranger or going on a date - I actually think simulating a date conversation is really good learning material).
+
+Basically, I'd design a curriculum focused on extremely practical scenarios ordered by realistically how you would encounter those scenarios in real life. Some of the things we're taught are honestly not that practical when it comes down to it - for example, we learned how to say "what's [japanese word] in english?" in japanese, but if a japanese person knew what that word was in english, you wouldn't really need to say the whole sentence - just "[word] wa nan desuka?" or honestly just "[word]?" totally suffices. I was finding it very weird to be landing super proper sentences in Japanese and then completely failing at the follow-up conversation - at some point, it was better for me to purposely pretend like I was worse at Japanese upfront so they would know to dumb down their Japanese or use english to talk to me for any follow-up. But that really begged the question - why do I know some phrases super well when I probably should've been spending my time learning more practical material but with worse proficiency, and then improve my overall proficiency/grammatical usage over time? Like imagine this scenario: you work at a store and a white person walks up to you and in a very good regular American English accent asks, "how much is this?" and you tell them, and they're like "sounds good, thanks!" and then you're like "would you like a bag?" and then they stare at you blankly. Like, that's way weirder than if that person pointed to their item and was like "ummmm....how...much?" and then afterwards when you ask them if they want a bag and stare at you blankly, you're already primed for them potentially not understanding basic english. Anyways, just a very weird niche complaint to have but all I'm saying is there should be a greater focus on expanding the variety of practical scenarios we're introduced to in class and how to handle them vs focusing on the correct usage of a particular particle. If you mess up articles or prepositions in English, people will still understand you, you'll just be quickly identified as a non-native speaker. Which is totally fine because you only know <100 words, so you are far, far from a native speaker already, no need to waste so much time on grammar.
+
+My hypothesis on why textbooks are so obsessed with grammar rules is because of the JLPT tests. People who study for JLPT tests may still be completely useless when it comes to conversational Japanese, and in my opinion, that is pretty darn sad because if studying for the test is actively detracting people from using the language practically, the incentive structure is failing. The test either needs to be redesigned or there should be focuses in addition to just the tests.
