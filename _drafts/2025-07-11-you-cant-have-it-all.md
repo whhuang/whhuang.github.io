@@ -1,0 +1,11 @@
+---
+categories: personal
+title: you can't have it all
+date: 2025-07-11 23:00:00
+---
+
+Objectively, I'm living quite an envious life. I've been fortunate enough to be financially secure my whole life, so far. I've never been worried about getting enough to eat or having a place to sleep. I had a dream to live in Japan, and I just got up and did it. Work was stressful, so I just decided to quit with minimal consequences (so far). I mostly get to spend every moment of my day however I want, and usually that ends up being a lot of nothing - just lounging around and playing games. If I was feeling too much like a couch potato, I could just get out of town and go on a hike at a moment's notice, go for a bike ride, schedule meals with friends, or attend public events. I'm in almost complete control of my life, and I get to do whatever I want, whenever I want. It seems pretty perfect, right?
+
+Well...maybe I'm doing something wrong, or maybe it's part of human nature and psychology, but I've been finding myself less happy than I used to be. I've also been significantly less stressed than I used to be, too. Everything has just been toned down a notch, and as a person who likes to cruise on highs, it feels a bit like depression. I used to sneer at "first world problems". In the past, whenever I was struggling with something, I would remind myself of the situations of those less fortunate than I, and that would serve as a sufficient pick-me-up. But now that I've had an immense amount of time to just sit around and stew on my thoughts, while reminding myself that this is the reality I created in a world where I had maximum agency, I've come to realize that life doesn't necessarily get better as you go up [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). It actually becomes so much less clear what you need to do to achieve happiness, and that daunting feeling is very, very real. It's certainly not apples-to-apples with something like food or shelter insecurity, but it's a beast of its own.
+
+I wish I could say I'm the happiest I've ever been, that I'm having the time of my life. But I'm so lost in my own mind, I don't even know if I want happiness anymore. 
