@@ -1,7 +1,7 @@
 ---
 categories: japan
 title: triathlon training camp
-date: 2025-10-25 23:00:00
+date: 2025-10-26 23:00:00
 ---
 
 Though there was a schedule laid out for the weekend's activities, I still didn't really know what to expect. They advertised it as a beginner-friendly event, but I've learned over and over again that that could mean anything. I got off the train and met up with two others from our group, and one of them said that they've been training since COVID, and the other for over 20 years (and before that she was a runner), so...we were off to a good start. Then we met up with the club leader, Andrea (who is obviously an incredibly seasoned and decorated athlete), and she kindly gave us a ride to the inn (which was honestly so helpful. The bike ride, which I was considering doing, would've been absolutely awful in hindsight).
