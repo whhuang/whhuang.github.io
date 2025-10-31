@@ -1,7 +1,7 @@
 ---
 categories: japan personal
 title: kaiten sushi
-date: 2025-10-28 23:00:00
+date: 2025-10-29 23:00:00
 ---
 
 This was originally going to be family trip pt 2, but it turns out the only thing I wanted to talk about from the Tokyo part of the family trip was kaiten sushi (conveyor belt sushi). All of the other Tokyo things we did were just classic tourist activities that you can see anywhere on the internet. And sure, kaiten sushi is also a very widely-known activity, but there are many conveyor belt sushi places. The three major chains are: Kura Sushi, Sushiro, and Hama Sushi. All three are within a block of each other in Takadanobaba, so we really scored the jackpot.
