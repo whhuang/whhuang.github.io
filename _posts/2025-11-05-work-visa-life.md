@@ -1,7 +1,7 @@
 ---
 categories: japan
 title: work, visa, life
-date: 2025-11-4 23:00:00
+date: 2025-11-5 23:00:00
 ---
 
 My legal immigration status, housing situation, and future life plans have been on my mind a bunch lately. I've been a bit surprised by how much I've enjoyed working for the latest company so far, and it was honestly so great to be able to "shop" around and try working at each of the companies for 1-2 months. Working for a company is kind of like dating - this is 40+ hours of your week you're committing to, and tied significantly to your mental health and wellbeing. While you can make your best judgement during the interview process, people are obviously going to show their best side at first, and there's nothing like actually working at the company for a bit to figure out well, what it's actually like to work at that company.
