@@ -40,6 +40,8 @@ Anyways, so earlier when I had sent Steven out on a shopping errand, it was inde
 
 Ended up spending the next 36 hours cleaning, but it was totally worth it. Couldn't have asked for a better friendsgiving. (We even had a short-lived fireplace made of bread!)
 
+Oh, and one final thing. I had two separate shipments from Costco (which again, is an hour drive away), went to the fancy department store grocery shops to source specific ingredients, and ended up buying enough food for 12 people and had leftovers for myself for over a week which I wasn't even able to finish. The total for all the food came out to about $100 USD, which is less than what I spend on just myself for groceries for a week in SF. Crazy.
+
 ---
 
 *One more note on this: the food situation has been especially difficult because I've been trying to change my lifestyle completely - working out more/taking on some more serious training, and wanting to diet properly and ideally lose weight. But "easy" protein sources and recipes that I find on the internet just aren't as readily available here. It's already difficult for me to take on this new lifestyle, each bit of added friction is more mental load on achieving my goals.
